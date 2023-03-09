@@ -1,1 +1,6 @@
-""
+﻿facility_id,num_of_open_hatch_events,t_hacth_open (Mannual),t_hacth_clos  (Mannual),t_hacth_open (drone),t_hacth_clos (work order)
+10086098,1,7/24/2022 15:12,21-Sep-22,8/19/2022,9/22/2022
+10086060,1,7/16/2022 0:00,25-Sep-22,8/19/2022,8/25/2022
+,,,,,
+,,,,,
+,,,,,
